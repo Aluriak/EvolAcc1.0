@@ -1,0 +1,234 @@
+!=============================================================================!
+!===================================EvoLAcc [Pyrite]==========================!
+!=============================================================================!
+
+
+INITIALISATION: objet Espece1(0,300,400,0,0,5,2,93,7,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(1,200,300,4,1,94,0,1,11,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(2,400,500,45,10,2,23,20,6,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(3,0,100,92,1,4,0,3,5,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(4,0,0,1,0,0,86,13,7,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(5,300,300,10,62,15,7,6,14,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(6,500,200,1,92,4,0,3,9,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(7,100,100,1,67,4,24,4,9,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(8,0,300,5,90,2,3,0,9,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(9,300,0,6,41,22,5,26,6,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(10,500,200,9,61,15,8,7,9,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(11,400,200,40,1,58,0,1,5,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(12,300,300,11,13,5,66,5,14,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(13,100,300,2,86,5,2,5,7,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(14,400,200,36,1,8,19,36,14,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(15,400,300,4,88,0,8,0,11,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(16,300,200,57,7,9,18,9,12,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(17,200,300,15,1,8,1,75,9,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(18,100,100,8,8,29,43,12,5,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(19,300,100,1,1,0,3,95,6,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(20,0,100,72,2,3,19,4,6,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(21,500,300,12,22,17,41,8,14,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(22,400,200,18,39,5,37,1,13,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(23,200,400,56,13,5,2,24,11,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(24,100,500,1,3,0,80,16,8,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(25,100,300,11,75,12,1,1,5,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(26,500,200,40,0,5,54,1,11,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(27,0,100,12,1,66,1,20,11,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(28,0,400,10,12,21,43,14,10,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(29,100,0,2,2,7,87,2,14,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(30,0,500,51,2,28,13,6,9,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(31,400,500,76,1,0,0,23,9,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(32,500,100,11,4,80,4,1,13,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(33,300,0,4,0,92,1,3,11,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(34,0,400,26,11,25,30,8,8,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(35,300,500,17,13,11,45,14,11,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(36,0,300,2,32,32,33,1,7,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(37,500,0,48,2,1,7,42,6,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(38,0,200,28,16,32,18,6,6,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(39,300,0,3,82,5,6,4,5,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(40,300,300,35,9,3,2,51,12,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(41,400,400,36,3,54,7,0,5,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(42,200,200,78,2,2,17,1,9,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(43,400,100,44,3,52,1,0,12,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(44,100,0,8,39,31,12,10,5,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(45,500,100,18,71,3,8,0,9,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(46,500,400,30,9,33,7,21,7,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(47,0,200,7,3,25,65,0,6,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(48,300,500,2,3,59,19,17,9,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(49,400,100,10,8,57,17,8,14,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(50,0,500,34,3,52,2,9,13,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(51,400,0,6,3,85,2,4,8,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(52,300,300,2,97,0,1,0,14,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(53,400,400,0,5,6,85,4,5,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(54,500,0,29,41,2,15,13,7,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(55,0,100,7,9,35,47,2,10,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(56,300,0,2,21,2,15,60,8,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(57,500,300,0,1,5,5,89,11,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(58,400,100,1,1,83,14,1,11,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(59,300,200,14,1,71,14,0,9,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(60,300,300,71,24,4,0,1,7,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(61,100,100,15,5,57,11,12,14,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(62,500,100,1,16,66,16,1,6,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(63,400,200,33,11,1,41,14,12,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(64,200,100,5,47,27,7,14,7,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(65,200,300,1,0,71,27,1,13,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(66,300,400,7,4,78,9,2,13,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(67,300,200,33,30,14,7,16,10,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(68,0,0,0,8,46,1,45,11,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(69,300,300,15,32,21,19,13,5,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(70,100,300,58,10,11,8,13,10,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(71,500,400,12,2,19,12,55,10,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(72,0,400,13,2,23,37,25,9,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(73,0,400,46,17,3,25,9,9,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(74,0,200,20,3,50,1,26,11,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(75,200,200,8,3,8,9,72,12,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(76,400,200,0,11,1,1,87,9,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(77,400,300,5,14,68,10,3,10,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(78,300,400,7,0,6,62,25,10,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(79,0,100,8,3,15,69,5,14,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(80,500,0,4,32,22,37,5,6,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(81,300,500,1,47,31,19,2,13,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(82,100,400,9,18,39,10,24,8,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(83,500,0,1,5,45,24,25,12,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(84,300,200,0,1,2,97,0,12,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(85,0,100,42,11,2,43,2,13,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(86,300,0,6,23,4,65,2,13,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(87,400,400,1,75,1,11,12,14,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(88,100,0,2,5,6,72,15,8,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(89,0,100,0,1,2,97,0,6,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(90,500,200,1,7,6,0,86,10,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(91,100,300,0,1,0,49,50,11,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(92,0,100,15,28,22,26,9,7,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(93,0,0,63,0,33,3,1,6,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(94,100,100,10,37,9,25,19,14,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(95,200,400,75,11,4,7,3,5,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(96,300,200,23,10,4,58,5,14,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(97,400,200,1,80,2,17,0,14,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(98,500,200,5,8,75,6,6,11,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(99,100,400,6,6,65,14,9,5,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(100,100,100,3,2,4,91,0,13,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(101,0,400,23,57,14,3,3,8,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(102,500,500,3,0,71,25,1,13,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(103,400,0,5,88,1,1,5,10,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(104,400,0,41,17,33,3,6,5,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(105,400,500,1,1,83,14,1,9,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(106,300,200,26,4,17,23,30,14,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(107,300,500,95,0,1,3,1,6,5,11) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(108,0,400,56,12,10,19,3,12,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(109,500,500,1,12,79,1,7,7,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(110,0,100,96,1,1,1,1,14,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(111,200,400,55,0,40,1,4,11,5,14) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(112,400,400,1,51,1,0,47,10,5,13) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+INITIALISATION: objet Espece1(113,300,500,0,73,20,2,5,6,5,12) pour ligne 'Espece1:?,?,0,0,80,80,0,?,?,?,'
+AFFICHAGE_SDL: Objet Espece1  (ID0) a été affiché aux coordonnées (300;400).
+AFFICHAGE_SDL: Objet Espece1  (ID1) a été affiché aux coordonnées (200;300).
+AFFICHAGE_SDL: Objet Espece1  (ID2) a été affiché aux coordonnées (400;500).
+AFFICHAGE_SDL: Objet Espece1  (ID3) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID4) a été affiché aux coordonnées (0;0).
+AFFICHAGE_SDL: Objet Espece1  (ID5) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID6) a été affiché aux coordonnées (500;200).
+AFFICHAGE_SDL: Objet Espece1  (ID7) a été affiché aux coordonnées (100;100).
+AFFICHAGE_SDL: Objet Espece1  (ID8) a été affiché aux coordonnées (0;300).
+AFFICHAGE_SDL: Objet Espece1  (ID9) a été affiché aux coordonnées (300;0).
+AFFICHAGE_SDL: Objet Espece1  (ID10) a été affiché aux coordonnées (500;200).
+AFFICHAGE_SDL: Objet Espece1  (ID11) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID12) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID13) a été affiché aux coordonnées (100;300).
+AFFICHAGE_SDL: Objet Espece1  (ID14) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID15) a été affiché aux coordonnées (400;300).
+AFFICHAGE_SDL: Objet Espece1  (ID16) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID17) a été affiché aux coordonnées (200;300).
+AFFICHAGE_SDL: Objet Espece1  (ID18) a été affiché aux coordonnées (100;100).
+AFFICHAGE_SDL: Objet Espece1  (ID19) a été affiché aux coordonnées (300;100).
+AFFICHAGE_SDL: Objet Espece1  (ID20) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID21) a été affiché aux coordonnées (500;300).
+AFFICHAGE_SDL: Objet Espece1  (ID22) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID23) a été affiché aux coordonnées (200;400).
+AFFICHAGE_SDL: Objet Espece1  (ID24) a été affiché aux coordonnées (100;500).
+AFFICHAGE_SDL: Objet Espece1  (ID25) a été affiché aux coordonnées (100;300).
+AFFICHAGE_SDL: Objet Espece1  (ID26) a été affiché aux coordonnées (500;200).
+AFFICHAGE_SDL: Objet Espece1  (ID27) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID28) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID29) a été affiché aux coordonnées (100;0).
+AFFICHAGE_SDL: Objet Espece1  (ID30) a été affiché aux coordonnées (0;500).
+AFFICHAGE_SDL: Objet Espece1  (ID31) a été affiché aux coordonnées (400;500).
+AFFICHAGE_SDL: Objet Espece1  (ID32) a été affiché aux coordonnées (500;100).
+AFFICHAGE_SDL: Objet Espece1  (ID33) a été affiché aux coordonnées (300;0).
+AFFICHAGE_SDL: Objet Espece1  (ID34) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID35) a été affiché aux coordonnées (300;500).
+AFFICHAGE_SDL: Objet Espece1  (ID36) a été affiché aux coordonnées (0;300).
+AFFICHAGE_SDL: Objet Espece1  (ID37) a été affiché aux coordonnées (500;0).
+AFFICHAGE_SDL: Objet Espece1  (ID38) a été affiché aux coordonnées (0;200).
+AFFICHAGE_SDL: Objet Espece1  (ID39) a été affiché aux coordonnées (300;0).
+AFFICHAGE_SDL: Objet Espece1  (ID40) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID41) a été affiché aux coordonnées (400;400).
+AFFICHAGE_SDL: Objet Espece1  (ID42) a été affiché aux coordonnées (200;200).
+AFFICHAGE_SDL: Objet Espece1  (ID43) a été affiché aux coordonnées (400;100).
+AFFICHAGE_SDL: Objet Espece1  (ID44) a été affiché aux coordonnées (100;0).
+AFFICHAGE_SDL: Objet Espece1  (ID45) a été affiché aux coordonnées (500;100).
+AFFICHAGE_SDL: Objet Espece1  (ID46) a été affiché aux coordonnées (500;400).
+AFFICHAGE_SDL: Objet Espece1  (ID47) a été affiché aux coordonnées (0;200).
+AFFICHAGE_SDL: Objet Espece1  (ID48) a été affiché aux coordonnées (300;500).
+AFFICHAGE_SDL: Objet Espece1  (ID49) a été affiché aux coordonnées (400;100).
+AFFICHAGE_SDL: Objet Espece1  (ID50) a été affiché aux coordonnées (0;500).
+AFFICHAGE_SDL: Objet Espece1  (ID51) a été affiché aux coordonnées (400;0).
+AFFICHAGE_SDL: Objet Espece1  (ID52) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID53) a été affiché aux coordonnées (400;400).
+AFFICHAGE_SDL: Objet Espece1  (ID54) a été affiché aux coordonnées (500;0).
+AFFICHAGE_SDL: Objet Espece1  (ID55) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID56) a été affiché aux coordonnées (300;0).
+AFFICHAGE_SDL: Objet Espece1  (ID57) a été affiché aux coordonnées (500;300).
+AFFICHAGE_SDL: Objet Espece1  (ID58) a été affiché aux coordonnées (400;100).
+AFFICHAGE_SDL: Objet Espece1  (ID59) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID60) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID61) a été affiché aux coordonnées (100;100).
+AFFICHAGE_SDL: Objet Espece1  (ID62) a été affiché aux coordonnées (500;100).
+AFFICHAGE_SDL: Objet Espece1  (ID63) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID64) a été affiché aux coordonnées (200;100).
+AFFICHAGE_SDL: Objet Espece1  (ID65) a été affiché aux coordonnées (200;300).
+AFFICHAGE_SDL: Objet Espece1  (ID66) a été affiché aux coordonnées (300;400).
+AFFICHAGE_SDL: Objet Espece1  (ID67) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID68) a été affiché aux coordonnées (0;0).
+AFFICHAGE_SDL: Objet Espece1  (ID69) a été affiché aux coordonnées (300;300).
+AFFICHAGE_SDL: Objet Espece1  (ID70) a été affiché aux coordonnées (100;300).
+AFFICHAGE_SDL: Objet Espece1  (ID71) a été affiché aux coordonnées (500;400).
+AFFICHAGE_SDL: Objet Espece1  (ID72) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID73) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID74) a été affiché aux coordonnées (0;200).
+AFFICHAGE_SDL: Objet Espece1  (ID75) a été affiché aux coordonnées (200;200).
+AFFICHAGE_SDL: Objet Espece1  (ID76) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID77) a été affiché aux coordonnées (400;300).
+AFFICHAGE_SDL: Objet Espece1  (ID78) a été affiché aux coordonnées (300;400).
+AFFICHAGE_SDL: Objet Espece1  (ID79) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID80) a été affiché aux coordonnées (500;0).
+AFFICHAGE_SDL: Objet Espece1  (ID81) a été affiché aux coordonnées (300;500).
+AFFICHAGE_SDL: Objet Espece1  (ID82) a été affiché aux coordonnées (100;400).
+AFFICHAGE_SDL: Objet Espece1  (ID83) a été affiché aux coordonnées (500;0).
+AFFICHAGE_SDL: Objet Espece1  (ID84) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID85) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID86) a été affiché aux coordonnées (300;0).
+AFFICHAGE_SDL: Objet Espece1  (ID87) a été affiché aux coordonnées (400;400).
+AFFICHAGE_SDL: Objet Espece1  (ID88) a été affiché aux coordonnées (100;0).
+AFFICHAGE_SDL: Objet Espece1  (ID89) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID90) a été affiché aux coordonnées (500;200).
+AFFICHAGE_SDL: Objet Espece1  (ID91) a été affiché aux coordonnées (100;300).
+AFFICHAGE_SDL: Objet Espece1  (ID92) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID93) a été affiché aux coordonnées (0;0).
+AFFICHAGE_SDL: Objet Espece1  (ID94) a été affiché aux coordonnées (100;100).
+AFFICHAGE_SDL: Objet Espece1  (ID95) a été affiché aux coordonnées (200;400).
+AFFICHAGE_SDL: Objet Espece1  (ID96) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID97) a été affiché aux coordonnées (400;200).
+AFFICHAGE_SDL: Objet Espece1  (ID98) a été affiché aux coordonnées (500;200).
+AFFICHAGE_SDL: Objet Espece1  (ID99) a été affiché aux coordonnées (100;400).
+AFFICHAGE_SDL: Objet Espece1  (ID100) a été affiché aux coordonnées (100;100).
+AFFICHAGE_SDL: Objet Espece1  (ID101) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID102) a été affiché aux coordonnées (500;500).
+AFFICHAGE_SDL: Objet Espece1  (ID103) a été affiché aux coordonnées (400;0).
+AFFICHAGE_SDL: Objet Espece1  (ID104) a été affiché aux coordonnées (400;0).
+AFFICHAGE_SDL: Objet Espece1  (ID105) a été affiché aux coordonnées (400;500).
+AFFICHAGE_SDL: Objet Espece1  (ID106) a été affiché aux coordonnées (300;200).
+AFFICHAGE_SDL: Objet Espece1  (ID107) a été affiché aux coordonnées (300;500).
+AFFICHAGE_SDL: Objet Espece1  (ID108) a été affiché aux coordonnées (0;400).
+AFFICHAGE_SDL: Objet Espece1  (ID109) a été affiché aux coordonnées (500;500).
+AFFICHAGE_SDL: Objet Espece1  (ID110) a été affiché aux coordonnées (0;100).
+AFFICHAGE_SDL: Objet Espece1  (ID111) a été affiché aux coordonnées (200;400).
+AFFICHAGE_SDL: Objet Espece1  (ID112) a été affiché aux coordonnées (400;400).
+AFFICHAGE_SDL: Objet Espece1  (ID113) a été affiché aux coordonnées (300;500).
+EVOLUTION: objets Espece1 (ID7 et ID100) ont procréé (ID118) (Phase-1)
